@@ -1,6 +1,6 @@
 package io.coconut.ferrum.utils;
 
-public class Formater {
+public class Formatter {
     public static String formatMin(int min) {
         return "-Xms" + min + "G";
     }
