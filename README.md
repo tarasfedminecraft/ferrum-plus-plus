@@ -12,7 +12,7 @@ Ferum - simple library that allows you to create a Minecraft launcher in Java
 import io.coconut.ferrum.*;
 
 public class Main {
-  public static void main(String[] args) {
+  public static void main(String[] args) throws Exception {
     /*
     Arguments:
     1: Username
